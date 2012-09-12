@@ -46,5 +46,7 @@
     <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
     <uses-permission android:name="android.permission.REBOOT" />
 
-    <uses-sdk android:minSdkVersion="11" />
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="16" />
 </manifest>
